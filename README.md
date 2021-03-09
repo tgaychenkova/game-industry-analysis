@@ -1,4 +1,4 @@
-# game-industry-analysis
+# game-industry-analysis (in progress)
 
 * `notebook.ipynb` - code and report
 * `games.csv` - data itself
